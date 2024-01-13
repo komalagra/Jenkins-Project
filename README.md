@@ -1,3 +1,3 @@
 # Jenkins-Project
 
-Welcome! Second commit
+Welcome!
